@@ -200,8 +200,5 @@ namespace CarRacing
                     gamespeed--;
             }
         }
-
-
-
     }
 }
